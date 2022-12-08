@@ -6,7 +6,7 @@ asset==0.6.12
 astor==0.8.1
 astroid==2.2.5
 Brlapi==0.6.6
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 chrome-gnome-shell==0.0.0
 command-not-found==0.3
